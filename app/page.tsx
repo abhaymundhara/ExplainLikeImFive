@@ -174,7 +174,7 @@ export default function Home() {
       <div className="w-full md:w-2/3 p-4 md:p-8 overflow-hidden relative z-10 flex flex-col min-h-[600px] md:h-full">
         {/* GitHub Button - Responsive Placement */}
         <div className="flex justify-end mb-4 w-full max-w-3xl mx-auto">
-          <GitHubButton repoUrl="https://github.com/abhay0811/ExplainLike" />
+          <GitHubButton repoUrl="https://github.com/abhaymundhara/ExplainLikeImFive" />
         </div>
 
         <div className="bg-white border-2 border-black shadow-[8px_8px_0px_0px_rgba(0,0,0,0.2)] flex-1 flex flex-col max-w-3xl mx-auto w-full overflow-hidden">
